@@ -6,10 +6,10 @@ import { Globe } from 'lucide-react';
 const LanguagesSection = () => {
   const languages = [
     { name: "English", level: "Full professional proficiency" },
-    { name: "Hindi", level: "Limited working proficiency" }, 
-    { name: "Malayalam", level: "Elementary proficiency" },
     { name: "Tamil", level: "Native or bilingual proficiency" },
-    { name: "Telugu", level: "Elementary proficiency" }
+    { name: "Hindi", level: "Limited working proficiency" },
+    { name: "Telugu", level: "Elementary proficiency" },
+    { name: "Malayalam", level: "Elementary proficiency" }
   ];
 
   return (
